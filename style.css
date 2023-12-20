@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+
+
+.image{
+    border: 5px solid white;
+}
+
+p{
+    color: white;
+    text-transform: capitalize;
+}
